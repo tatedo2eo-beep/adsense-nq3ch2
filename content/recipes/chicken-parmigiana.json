@@ -1,0 +1,200 @@
+{
+  "slug": "chicken-parmigiana",
+  "title": "Chicken Parmigiana with Spaghetti",
+  "category": "chicken",
+  "cuisine": "Italian-American",
+  "chapter": "chicken",
+  "book_chapter": "chicken",
+  "dish": "chicken-parmigiana",
+  "dish_title": "Chicken parmigiana",
+  "flavour": "Classic",
+  "flavour_order": 0,
+  "access": "free",
+  "summary": "Crumbed chicken cutlets are fried until golden, topped with tomato sauce and melted mozzarella, then served over spaghetti.",
+  "servings": 4,
+  "prep_min": 25,
+  "cook_min": 40,
+  "difficulty": "medium",
+  "equipment": [
+    "large frying pan (28-30 cm)",
+    "medium saucepan",
+    "large pot for pasta",
+    "meat mallet or rolling pin",
+    "3 shallow dishes",
+    "rimmed baking tray with a rack",
+    "instant-read thermometer"
+  ],
+  "ingredients": [
+    {
+      "group": "Chicken",
+      "qty": 2,
+      "unit": "pc",
+      "item": "large boneless, skinless chicken breasts (about 300 g each), halved horizontally into 4 cutlets"
+    },
+    {
+      "group": "Chicken",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp"
+    },
+    {
+      "group": "Chicken",
+      "qty": 0.25,
+      "unit": "tsp",
+      "item": "ground black pepper"
+    },
+    {
+      "group": "Coating",
+      "qty": 50,
+      "unit": "g",
+      "item": "plain flour"
+    },
+    {
+      "group": "Coating",
+      "qty": 2,
+      "unit": "pc",
+      "item": "eggs, beaten"
+    },
+    {
+      "group": "Coating",
+      "qty": 80,
+      "unit": "g",
+      "item": "panko or dried breadcrumbs"
+    },
+    {
+      "group": "Coating",
+      "qty": 20,
+      "unit": "g",
+      "item": "finely grated parmesan"
+    },
+    {
+      "group": "Coating",
+      "qty": 400,
+      "unit": "ml",
+      "item": "neutral oil for shallow frying",
+      "note": "about 1 cm deep"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 2,
+      "unit": "tbsp",
+      "item": "olive oil"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 3,
+      "unit": "pc",
+      "item": "garlic cloves, thinly sliced"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 800,
+      "unit": "g",
+      "item": "tinned crushed or chopped tomatoes, no added salt (2 tins)"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 0.5,
+      "unit": "tsp",
+      "item": "dried oregano"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 1.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt",
+      "note": "about ¼ tsp; the tomatoes have no added salt; taste and adjust"
+    },
+    {
+      "group": "Tomato sauce",
+      "qty": 8,
+      "unit": "g",
+      "item": "basil leaves"
+    },
+    {
+      "group": "Topping",
+      "qty": 125,
+      "unit": "g",
+      "item": "mozzarella, torn or sliced"
+    },
+    {
+      "group": "Topping",
+      "qty": 20,
+      "unit": "g",
+      "item": "grated parmesan"
+    },
+    {
+      "group": "Spaghetti",
+      "qty": 280,
+      "unit": "g",
+      "item": "dried spaghetti"
+    },
+    {
+      "group": "Spaghetti",
+      "qty": 7.5,
+      "unit": "g",
+      "item": "fine sea salt or table salt, for the pasta water (7.5 g in 1.5 litres, 0.5%)",
+      "note": "about 1¼ tsp"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Simmer the tomato sauce",
+      "text": "Warm the olive oil and garlic in a saucepan over medium-low heat for 1-2 minutes until pale gold, then add the no-added-salt tomatoes, oregano, the ¼ tsp salt and a few basil stems. Simmer for 15-20 minutes until thickened, then taste and adjust the seasoning."
+    },
+    {
+      "title": "Flatten and season the chicken",
+      "text": "Pound the cutlets between cling film to an even 6 mm thickness, then season with the salt and pepper."
+    },
+    {
+      "title": "Coat the cutlets",
+      "text": "Dip each cutlet in flour, then beaten egg, then the panko mixed with parmesan, pressing the crumb on firmly so it holds."
+    },
+    {
+      "title": "Fry until golden",
+      "text": "Heat the oil to about 1 cm deep in the frying pan over medium-high until it reaches around 175°C, hot enough that a crumb sizzles instantly. Fry the cutlets 2 at a time for about 2 minutes per side until deep golden and the centre reaches 74°C, then drain on the rack."
+    },
+    {
+      "title": "Grill with sauce and cheese",
+      "text": "Heat the grill (broiler) to high. Set the cutlets on the rack-lined tray, spoon 2 tbsp of sauce onto the centre of each, leaving the crisp edges bare, then top with the mozzarella and parmesan. Grill for 3-4 minutes until the cheese is melted, bubbling and browned in spots."
+    },
+    {
+      "title": "Cook the pasta and serve",
+      "text": "While the cutlets grill, cook the spaghetti in 1.5 litres of boiling water salted with 7.5 g (1¼ tsp) salt - a light 0.5% because the sauce and cheese are already salty - for 1 minute less than the packet suggests, then drain and toss with most of the remaining sauce. Serve the cutlets on the spaghetti, scattered with basil."
+    }
+  ],
+  "tips": [
+    "Leave the outer edges of each cutlet free of sauce and cheese before grilling so they stay crisp rather than turning soggy.",
+    "Common mistake: drowning the fried cutlets in sauce. A spoonful in the centre is enough; serve the rest alongside with the pasta.",
+    "Check the oil temperature before frying - too cool and the crumb turns greasy rather than crisp.",
+    "Pound the chicken to an even thickness so it cooks through at the same rate as the crust browns.",
+    "Undercook the pasta slightly before draining, since it will keep softening slightly while you plate up.",
+    "Frying safety: use a heavy, deep pot no more than half full of oil, with a clip-on thermometer, and dry the food before it goes in. Never leave hot oil unattended. If the oil catches fire, turn off the heat and cover the pot with a metal lid or use a fire extinguisher; never use water."
+  ],
+  "storage": "Store sauce and cooked cutlets separately in the fridge for up to 3 days. Reheat cutlets in the oven or under the grill until piping hot (74°C) to keep the crumb crisp; a microwave will make it soggy. Cool leftovers in a shallow container and refrigerate within 2 hours (within 1 hour on a day above 32°C).",
+  "allergens": [
+    "gluten",
+    "milk",
+    "eggs"
+  ],
+  "diet": [],
+  "nutrition_per_serving": {
+    "kcal": 883,
+    "protein_g": 59.5,
+    "carbs_g": 79.8,
+    "sugar_g": 8.5,
+    "free_sugar_g": 1.1,
+    "fat_g": 35.4,
+    "satfat_g": 9.9,
+    "salt_g": 2.78,
+    "fibre_g": 7.2
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "chicken-parmigiana-advanced.jpg",
+  "image_alt": "A golden, crisp-crumbed chicken cutlet topped with melted bubbling mozzarella and tomato sauce, served over a tangle of spaghetti.",
+  "inspired_by": [
+    "America's Test Kitchen",
+    "Serious Eats"
+  ]
+}

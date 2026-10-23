@@ -1,0 +1,127 @@
+{
+  "slug": "cocoa-frozen-yoghurt",
+  "title": "Cocoa Frozen Yoghurt",
+  "category": "desserts",
+  "cuisine": "American",
+  "chapter": "ice-cream-frozen-desserts",
+  "book_chapter": "ice-cream-frozen-desserts",
+  "dish": "frozen-yogurt",
+  "dish_title": "Frozen yogurt",
+  "flavour": "Chocolate",
+  "flavour_order": 9,
+  "access": "premium",
+  "base_recipe": "frozen-yogurt-strained-tangy",
+  "changes_from_base": "Low-fat yoghurt is drained only briefly and set with a little gelatine in hot milk whisked with Dutch-process cocoa.",
+  "extra_flavour": true,
+  "summary": "A rich, velvety chocolate frozen yoghurt made with Dutch-process cocoa powder. Deep in flavour and satisfyingly smooth.",
+  "servings": 8,
+  "prep_min": 20,
+  "cook_min": 5,
+  "difficulty": "easy",
+  "equipment": [
+    "ice-cream maker",
+    "fine sieve",
+    "jug",
+    "small bowl",
+    "small saucepan",
+    "lidded freezer container"
+  ],
+  "ingredients": [
+    {
+      "group": "Frozen yoghurt",
+      "qty": 490,
+      "unit": "g",
+      "item": "plain low-fat yoghurt"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 2,
+      "unit": "tsp",
+      "item": "beef gelatine powder"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 415,
+      "unit": "ml",
+      "item": "whole milk",
+      "note": "60 ml to soak the gelatine, 355 ml heated"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 200,
+      "unit": "g",
+      "item": "caster sugar"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 6,
+      "unit": "tbsp",
+      "item": "Dutch-process cocoa powder (30 g)"
+    },
+    {
+      "group": "Frozen yoghurt",
+      "qty": 1,
+      "unit": "tsp",
+      "item": "vanilla"
+    }
+  ],
+  "steps": [
+    {
+      "title": "Drain",
+      "text": "Set a fine sieve over a jug, tip in the 490 g yoghurt and leave it in the fridge for 1-2 h, until 120 ml of liquid has dripped through; pour that liquid away."
+    },
+    {
+      "title": "Bloom",
+      "text": "Scatter the 2 tsp gelatine over 60 ml cold milk in a small bowl and leave it 10 min, stirring every so often."
+    },
+    {
+      "title": "Warm",
+      "text": "Heat 355 ml milk with 200 g caster sugar and 6 tbsp Dutch-process cocoa powder, stirring until dissolved."
+    },
+    {
+      "title": "Combine",
+      "text": "Off the heat, whisk in the bloomed gelatine until dissolved. Cool to room temperature."
+    },
+    {
+      "title": "Mix",
+      "text": "Add 1 tsp vanilla to the drained yoghurt and stir in the cooled cocoa milk until evenly brown."
+    },
+    {
+      "title": "Chill",
+      "text": "Chill to 4 °C or below."
+    },
+    {
+      "title": "Churn",
+      "text": "Churn until frozen and scoopable, then eat it soft straight away or pack it into a sealed container and freeze for up to 2 days."
+    }
+  ],
+  "tips": [
+    "Use Dutch-process cocoa for the deepest, smoothest chocolate flavour.",
+    "Whisk the cocoa powder into the heated milk thoroughly to prevent lumps.",
+    "Eat within 2 days for the creamiest texture; prolonged freezing makes it icy."
+  ],
+  "storage": "Store in a sealed freezer container for up to 2 days.",
+  "allergens": [
+    "milk"
+  ],
+  "diet": [
+    "gluten-free"
+  ],
+  "nutrition_per_serving": {
+    "kcal": 171,
+    "protein_g": 5.4,
+    "carbs_g": 33.1,
+    "sugar_g": 31.0,
+    "free_sugar_g": 25.0,
+    "fat_g": 2.9,
+    "satfat_g": 1.8,
+    "salt_g": 0.14,
+    "fibre_g": 1.1
+  },
+  "nutrition_source": "Calculated from USDA FoodData Central ingredient values",
+  "image": "cocoa-frozen-yoghurt.jpg",
+  "image_alt": "Two scoops of rich brown cocoa frozen yoghurt in a black bowl.",
+  "inspired_by": [
+    "America's Test Kitchen"
+  ]
+}

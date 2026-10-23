@@ -1,0 +1,7 @@
+.cache/
+.cc/
+.serve/
+node_modules/
+shots/
+shots/*.tmp
+node_modules
